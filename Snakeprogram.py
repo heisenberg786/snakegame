@@ -1,5 +1,5 @@
 #Here is one of the most simple way to create Snake water Gun game. Hope you all will like my method
-#My Name is Tauheed Shaikh
+#My Name is Tauheed Shaikh and This my First project on github
 def SnakeGame():
     """I think you Know how to play snake water gun game"""
     import random
@@ -55,6 +55,3 @@ if Repeat_game == 1:
     SnakeGame()
 else:
     print("See you Again Later")
-
-
-
